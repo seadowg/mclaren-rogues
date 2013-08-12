@@ -2,4 +2,4 @@
 
 ![logo](logo.jpg)
 
-**Sean est culus**
+*Sean est culus*
